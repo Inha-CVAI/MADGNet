@@ -41,7 +41,7 @@ STEP6. Enter following command
 CUDA_VISIBLE_DEVICES=[GPU Number] python3 IS2D_main.py --num_workers 4 --data_path dataset/BioMedicalDataset --save_path model_weights --train_data_type [Train Dataset Type] --test_data_type [Test Dataset Type] --final_epoch [Final Epochs]
 ```
 
-# Bibitex
+# Bibtex
 ```
 @InProceedings{Nam_2024_CVPR,
     author    = {Nam, Ju-Hyeon and Syazwany, Nur Suriza and Kim, Su Jung and Lee, Sang-Chul},
