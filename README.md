@@ -40,3 +40,15 @@ STEP6. Enter following command
 ```
 CUDA_VISIBLE_DEVICES=[GPU Number] python3 IS2D_main.py --num_workers 4 --data_path dataset/BioMedicalDataset --save_path model_weights --train_data_type [Train Dataset Type] --test_data_type [Test Dataset Type] --final_epoch [Final Epochs]
 ```
+
+# Bibitex
+```
+@InProceedings{Nam_2024_CVPR,
+    author    = {Nam, Ju-Hyeon and Syazwany, Nur Suriza and Kim, Su Jung and Lee, Sang-Chul},
+    title     = {Modality-agnostic Domain Generalizable Medical Image Segmentation by Multi-Frequency in Multi-Scale Attention},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2024},
+    pages     = {11480-11491}
+}
+```
