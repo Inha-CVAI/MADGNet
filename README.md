@@ -3,6 +3,8 @@ The reproduction code of MADGNet which is accepted in CVPR 2024
 
 ## 💡 We also have other Medical Image Segmentation projects that may interest you ✨
 
+### Image Polyp Segmentation
+
 > [**M3FPolypSegNet: Multi-Frequency Feature Fusion Segmentation Network for Polyp Localization in Colonoscopy Images [ICIP 2023]**](https://github.com/Inha-CVAI/M3FPolypSegNet)  
 > Ju-Hyeon Nam, Seo-Hyeong Park, Nur Suriza Syazwany, Yerim Jung, Yu-Han Im, Sang-Chul Lee<sup>&dagger;</sup>  
 > [![Github](https://img.shields.io/badge/-Github-black?style=flat&logo=github&logoColor=white)](https://github.com/Inha-CVAI/M3FPolypSegNet)
