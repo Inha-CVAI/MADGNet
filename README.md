@@ -1,6 +1,15 @@
 # MADGNet
 The reproduction code of MADGNet which is accepted in CVPR 2024
 
+## 💡 We also have other Medical Image Segmentation projects that may interest you ✨
+
+> [**M3FPolypSegNet: Multi-Frequency Feature Fusion Segmentation Network for Polyp Localization in Colonoscopy Images [ICIP 2023]**](https://github.com/Inha-CVAI/M3FPolypSegNet)  
+> Ju-Hyeon Nam, Seo-Hyeong Park, Nur Suriza Syazwany, Yerim Jung, Yu-Han Im, Sang-Chul Lee<sup>&dagger;</sup>  
+> [![Github](https://img.shields.io/badge/-Github-black?style=flat&logo=github&logoColor=white)](https://github.com/Inha-CVAI/M3FPolypSegNet)
+> [![Stars](https://img.shields.io/github/stars/Inha-CVAI/M3FPolypSegNet?style=social)](https://github.com/Inha-CVAI/M3FPolypSegNet/stargazers)
+> [![arXiv](https://img.shields.io/badge/arXiv-2310.05538-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2310.05538)  
+> <sup>&dagger;</sup> Corresponding author.
+
 ## Abstract
 Generalizability in deep neural networks plays a pivotal role in medical image segmentation. However, deep learning-based medical image analyses tend to overlook the importance of frequency variance, which is critical element for achieving a model that is both modality-agnostic and domain-generalizable.  Additionally, various models fail to account for the potential information loss that can arise from multi-task learning under deep supervision, a factor that can impair the model’s representation ability. To address these challenges, we propose a Modality-agnostic Domain Generalizable Network (MADGNet) for medical image segmentation, which comprises two key components: a Multi-Frequency in Multi-Scale Attention (MFMSA) block and Ensemble Sub-Decoding Module (E-SDM). The MFMSA block refines the process of spatial feature extraction, particularly in capturing boundary features, by incorporating multi-frequency and multi-scale features, thereby offering informative cues for tissue outline and anatomical structures. Moreover, we propose E-SDM to mitigate information loss in multi-task learning with deep supervision, especially during substantial upsampling from low resolution. We evaluate the segmentation performance of MADGNet across six modalities and fifteen datasets. Through extensive experiments, we demonstrate that MADGNet consistently outperforms  state-of-the-art models across various modalities, showcasing superior segmentation performance.  This affirms MADGNet as a robust solution for medical image segmentation that excels in diverse imaging scenarios. 
 
