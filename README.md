@@ -5,10 +5,12 @@ The reproduction code of MADGNet which is accepted in CVPR 2024
 
 ### Medical Image Segmentation
 
-> [**Rethinking Skip Connections for Medical Image Segmentation under Domain Shift and Corruptions [ACCV 2026]**](https://github.com/Inha-CVAI/WildMedNet_ACCV2026)
-> Ju-Hyeon Nam, Seo-Hyeong Park, Nur Suriza Syazwany, Yerim Jung, Yu-Han Im, Sang-Chul Lee<sup>&dagger;</sup>  
-> [![Github](https://img.shields.io/badge/-Github-black?style=flat&logo=github&logoColor=white)](https://github.com/Inha-CVAI/WildMedNet_ACCV2026)
-> [![Stars](https://img.shields.io/github/stars/Inha-CVAI/WildMedNet_ACCV2026?style=social)](https://github.com/Inha-CVAI/WildMedNet_ACCV2026/stargazers)
+> [**Rethinking Skip Connections for Medical Image Segmentation under Domain Shift and Corruptions [ACCV 2026]**](https://arxiv.org/abs/your_paper_id)  
+> Ju-Hyeon Nam, Dong-Hyun Moon, Sang-Chul Lee<sup>&dagger;</sup>  
+>
+> [![Github](https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white)](https://github.com/Inha-CVAI/WildMedNet_ACCV2026)
+> [![Stars](https://img.shields.io/github/stars/Inha-CVAI/WildMedNet_ACCV2026?style=flat&color=yellow)](https://github.com/Inha-CVAI/WildMedNet_ACCV2026/stargazers)
+>
 > <sup>&dagger;</sup> Corresponding author.
 
 ### Image Polyp Segmentation
