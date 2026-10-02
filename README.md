@@ -7,7 +7,7 @@ The reproduction code of MADGNet which is accepted in CVPR 2024
 
 > [**Rethinking Skip Connections for Medical Image Segmentation under Domain Shift and Corruptions
  [ACCV 2026]**](https://github.com/Inha-CVAI/WildMedNet_ACCV2026)
-> Ju-Hyeon Nam<sup>&#42;</sup>, Dong-Hyun Moon<sup>&#42;</sup>, Sang-Chul Lee<sup>&dagger;</sup>  
+> Ju-Hyeon Nam, Dong-Hyun Moon, Sang-Chul Lee<sup>&dagger;</sup>  
 > [![Github](https://img.shields.io/badge/-Github-black?style=flat&logo=github&logoColor=white)](https://github.com/Inha-CVAI/WildMedNet_ACCV2026)
 > [![Stars](https://img.shields.io/github/stars/Inha-CVAI/WildMedNet_ACCV2026?style=social)](https://github.com/Inha-CVAI/WildMedNet_ACCV2026/stargazers)
 > <sup>&dagger;</sup> Corresponding author.
